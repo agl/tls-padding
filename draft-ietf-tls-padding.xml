@@ -8,7 +8,7 @@
 
 <rfc ipr="trust200902" docName="draft-ietf-tls-padding-00">
   <front>
-    <title abbrev="TLS Padding Extension">A TLS padding extension</title>
+    <title abbrev="TLS ClientHello Padding Extension">A TLS ClientHello padding extension</title>
     <author initials="A." surname="Langley" fullname="Adam Langley">
       <organization>Google Inc</organization>
       <address>
@@ -20,7 +20,7 @@
     <area>Security</area>
     <abstract>
       <t>
-        This memo describes the a TLS extension that can be used to pad ClientHello messages to a desired size.
+        This memo describes a TLS extension that can be used to pad ClientHello messages to a desired size.
       </t>
     </abstract>
   </front>
