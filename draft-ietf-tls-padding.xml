@@ -57,7 +57,7 @@
       </figure>
 
       <t>
-        The <spanx style="verb">extension_data</spanx> for the extension consists of an arbitary number of zero bytes. For example, the smallest <spanx style="verb">padding</spanx> extension is four bytes long and is encoded as 00 15 00 00. A ten byte extension would include 6 bytes of <spanx style="verb">extension_data</spanx> and would be encoded as:
+        The <spanx style="verb">extension_data</spanx> for the extension consists of an arbitary number of zero bytes. For example, the smallest <spanx style="verb">padding</spanx> extension is four bytes long and is encoded as 0x00 0x15 0x00 0x00. A ten byte extension would include 6 bytes of <spanx style="verb">extension_data</spanx> and would be encoded as:
       </t>
 
       <figure>
