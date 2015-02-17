@@ -6,7 +6,7 @@
 
 <?rfc toc="yes" symrefs="yes"?>
 
-<rfc ipr="trust200902" docName="draft-ietf-tls-padding-00">
+<rfc ipr="trust200902" docName="draft-ietf-tls-padding-01">
   <front>
     <title abbrev="TLS ClientHello Padding Extension">A TLS ClientHello padding extension</title>
     <author initials="A." surname="Langley" fullname="Adam Langley">
