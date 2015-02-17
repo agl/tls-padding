@@ -8,7 +8,7 @@
 
 <rfc ipr="trust200902" docName="draft-ietf-tls-padding-00">
   <front>
-    <title abbrev="TLS ClientHello Padding Extension">A TLS ClientHello padding extension</title>
+    <title abbrev="TLS ClientHello Padding Extension">A TLS extension for Adding Padding to the CLientHello</title>
     <author initials="A." surname="Langley" fullname="Adam Langley">
       <organization>Google Inc</organization>
       <address>
